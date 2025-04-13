@@ -1,2 +1,2 @@
 cd script
-python3 /home/vital/documents/program/python/ia-api/app.py question.txt
+python3 /home/$USER/documents/program/python/Hack-AI/app.py question.txt
